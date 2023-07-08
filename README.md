@@ -1,41 +1,37 @@
-<h1 align="center">Hi 👋, I'm Rahul Malakar</h1>
-<h3 align="center">A 3rd year Computer Science and Engineering student at NIT Silchar.</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rahulmalakar42?tab=repositories](https://github.com/rahulmalakar42?tab=repositories)
 
-- 📫 How to reach me **malakarahul111@gmail.com**
+# 💫 About Me:
+- 🔭 I’m currently studying in NIT SILCHAR
+- 🌱 I’m currently learning react and node js
+- 👯 I’m looking to collaborate on various open source project
+- 🤔 I’m looking for help with web development
+- 💬 Ask me about react and dsa
+<br>Contact me- jagatdeka20@gmail.com
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H-7JJUvOpsTqnbf6BaQhGKmZPBuF-gAO/view?usp=sharing](https://drive.google.com/file/d/1H-7JJUvOpsTqnbf6BaQhGKmZPBuF-gAO/view?usp=sharing)
 
-- ⚡ Fun fact **I am a stoic.**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076306022881) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rahul._.malakar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulmalakar42/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/malakarahul111) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rahulmalakar42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rahulmalakar42" height="30" width="40" /></a>
-<a href="https://twitter.com/malakarahul111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malakarahul111" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahulmalakar42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulmalakar42" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rahul-malakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rahul-malakar" height="30" width="40" /></a>
-<a href="https://fb.com/rahulmalakar42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahulmalakar42" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul._.malakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul._.malakar" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rahulmalakar42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahulmalakar42" height="30" width="40" /></a>
-<a href="https://medium.com/@malakarahul111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malakarahul111" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rahulmalakar8288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rahulmalakar8288" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rahulmalakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahulmalakar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/r4hul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="r4hul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vastolorde_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vastolorde_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahulbhai04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulbhai04" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rahulmalakar42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rahulmalakar42" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/malakarahul111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="malakarahul111" height="30" width="40" /></a>
-<a href="https://discord.gg/9523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9523" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rahulmalakar42&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahulmalakar42&theme=slateorange&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmalakar42&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulmalakar42&show_icons=true&locale=en&layout=compact" alt="rahulmalakar42" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulmalakar42&show_icons=true&theme=dark&locale=en" alt="rahulmalakar42" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmalakar42&" alt="rahulmalakar42" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=rahulmalakar42&icon=8&color=5)](https://visitcount.itsvg.in)
+
+
+
+
+
