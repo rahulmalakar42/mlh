@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahulmalakar42&theme=ocean-gradient&card_width=400)](https://git.io/streak-stats)
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmalakar42)](https://github.com/rahulmalakar42/github-readme-stats)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmalakar42&show_icons=true&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rahulmalakar42&icon=8&color=5)](https://visitcount.itsvg.in)
