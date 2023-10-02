@@ -7,8 +7,6 @@
 - 📃 [My Resume](https://drive.google.com/file/d/1H-7JJUvOpsTqnbf6BaQhGKmZPBuF-gAO/view?usp=drive_link)
 - 📧 Contact me :  malakarahul111@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/{rahulmalakar42}/count.svg)
-
 
 
 
