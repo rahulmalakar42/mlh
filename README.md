@@ -4,7 +4,7 @@
 - 🔭 I’m a student at NIT Silchar from CSE department.
 - 🌱 DSA | MERN | Python
 - 💻 I’m looking forward to collaborate on various open source project.
-- 📃 [My Resume](https://drive.google.com/file/d/1H-7JJUvOpsTqnbf6BaQhGKmZPBuF-gAO/view?usp=sharing)
+- 📃 [My Resume]()
 - 📧 Contact me :  malakarahul111@gmail.com
 
 
